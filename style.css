@@ -1,0 +1,43 @@
+h1{
+  color: white;
+  font-size: 110px;
+  font-style: oblique;
+text-shadow: 25px 25px 50px black;
+}
+h2{
+  font-size: 80px;
+  font-style: italic;
+  text-shadow: 15px 15px #adaba5;
+  text-align: center;
+}
+h3{
+  text-align: right;
+  font-size: 60px;
+  font-style: oblique;
+  text-shadow: 10px 10px 20px black, 0 0 25px #73AD21, 0 0 15px #73AD21;
+}
+html{
+    color: #ebab23;
+rcorners2
+border-radius: 25px;
+border: 10px solid #73AD21;
+padding: 30px;
+width: 1450px;
+height: 1200px;
+}
+a{
+  color:black;
+}
+p{
+  font-size: 30px;
+  text-align:center;
+  border-radius:10px;
+  border: 10px solid black;
+  padding:15px;
+  width: 1300px;
+  height: 110px;
+}
+img{
+  image-resolution: snap;
+  box-shadow: -15px 0 #73AD21, 0 15px #73AD21, 15px 0 #73AD21, 0 -15px #73AD21;
+}
